@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(31, 34, 43);
+    font-family: arial,sans-serif;
+    color:whitesmoke;
+    
+}
+.inputs,.submit{
+    align-items: center;
+    text-align: center;
+    padding:10px;
+}
+.submit{
+    padding:25px
+}
+#searchbox{
+    border-radius: 20px;
+    min-width:45vw;
+    min-height: 5vh;
+    padding:5px;
+    text-indent: 10px;
+}
+#buttons{
+    padding: 6px;
+    text-align: right;
+}
+.button:hover{
+    text-decoration: underline;
+}
+.button{
+    background-color: transparent;
+    border: transparent;
+    font-size:medium;
+    font-family: arial,sans-serif;
+    color:whitesmoke;
+}
+h1{
+    font-size:7vw;
+    text-align: center;
+    font-weight: bolder;
+    padding: 3px;
+}
+#submit{
+    padding: 6px;
+    width:10vw;
+    height:7vh;
+    font-size: medium;
+    border-radius: 10px;
+    background-color:slategray;
+    
+}
+#submit:hover{
+    padding:6px;
+    border:rgb(250, 239, 222);
+    border-width: thick;
+    border-spacing: 10px;;
+}
+.images{
+    color: blue;
+    font-size:medium;
+}
+.tab{
+    position:fixed;
+    color:transparent;
+    background-color: transparent;
+    max-width: 0.1vw;
+    max-height: 0.1vh; 
+}
+
+.prosubmit{
+    text-align: center;
+}
+#prosubmit{
+    padding:6px;
+    background-color:steelblue;
+    border-color: transparent;
+    width:10vw;
+}
+.prosearch{
+    padding-left: 20vw;
+}
+
