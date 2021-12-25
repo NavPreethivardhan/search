@@ -1,19 +1,15 @@
-  
-            
-            
-            
-            
-            
-            
-            
-            <div class="prosearches">
-                <p><h3>Find the page with:</h3></p>
-                <br>    
-                <br>    
-                <br>    
-                 <br>   
-                <div class="prosearchbox"></div><br>
-                <div class="prosearchbox"></div><br>
-                <div class="prosearchbox"></div><br>
-                <div class="prosearchbox"></div><br>
-            </div>
+the forms were already given by cs50 then i added the border radius and color and hover elements to the 
+submit button
+and then i formatted the size of the search box and orientation of the searchbox to look similar to googles
+and then i tried to find to closest color to the google page's background
+after that i styled the 'google search' heading into the page such that it looks similar to google
+after which i copied the html into another html docx for image search
+and then i tried to modify the link as to open into the images page 
+which i did by adding another fixed input tag whcih was invisible
+and then i similarly copied it into the advanced search html doc 
+where i then checked of how the queries are specifed in teh link and then tried to make something similar 
+into the URL later i tried different ways to align the textboxes like 
+using columns(using paddings)
+and using padding from left and floats
+and after many tries i used the table method to make the textboxs and the box labels as 
+cells of a cell whose data i used in the table. 
